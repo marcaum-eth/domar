@@ -1,6 +1,6 @@
 # Atividade “Navegando em um Futuro Azul” 
 
-Website / GitHub / Abrir Projeto
+[Website](https://domar.framer.website/campanhas) / [Abrir Projeto de Design](https://framer.com/projects/new?duplicate=Ttbwfgbk85A4dmp62w4L)
 
 # Introdução
 
