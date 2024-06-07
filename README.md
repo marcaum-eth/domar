@@ -1,6 +1,6 @@
 # Atividade “Navegando em um Futuro Azul” 
 
-Website / GitHub
+Website / GitHub / Abrir Projeto
 
 # Introdução
 
